@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/CMakeFiles/bootloader
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/CMakeFiles/bootloader.rule
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/CMakeFiles/bootloader-complete.rule
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/sanju/ESP_LATEST_WORKSPACE/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
